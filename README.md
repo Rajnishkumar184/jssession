@@ -86,7 +86,7 @@ var obj2=JSON.parse(obj1);  // deserialize json object to javascript object.
 
 
 
-##AJAX (Asynchronous Javascript And XML)
+## AJAX (Asynchronous Javascript And XML)
 
 The two major features of AJAX allow you to do the following:
 
