@@ -143,13 +143,18 @@ The HTML5 history API gives you access to the browser navigation history via Jav
 The history object contains the following properties and functions - which comprise the history API:
 
 __length__
-__state__
-__back()__
-__forward()__
-__go(index)__
-__pushState(stateObject, title, url)__
-__replaceState(stateObject, title, url)__
 
+__state__
+
+__back()__
+
+__forward()__
+
+__go(index)__
+
+__pushState(stateObject, title, url)__
+
+__replaceState(stateObject, title, url)__
 
 
 ## SPA(Single Page Application) 
