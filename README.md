@@ -1,5 +1,5 @@
 
-### Offline Data Storage Technique
+## Offline Data Storage Technique
 
 **Web Storage :** The Web Storage API provides mechanisms by which browsers can store key/value pairs.
 **Web SQL Database :** The Web SQL Database API isn't actually part of the HTML5 specification but it is a separate specification which introduces a set of APIs to manipulate client-side databases using SQL.
@@ -53,7 +53,7 @@ localStorage['colorSetting'] = '#a4509b';
 localStorage.setItem('colorSetting', '#a4509b’);
 ````
 
-#### JSON (Javascript Object Notation)
+## JSON (Javascript Object Notation)
 
 JSON is data interchange format like XML it is used to pass data from one application to another from server to client or from client to server, etc.
 The syntax of JSON was inspired by the JavaScript Object Literal notation, but there are differences between them.
@@ -134,7 +134,7 @@ psw: optional password
 
 
 
-#### History API
+## History API
 
 The History interface allows to manipulate the browser session history, that is the pages visited in the tab or frame that the current page is loaded in.
 The HTML5 history API gives you access to the browser navigation history via JavaScript. The HTML5 history API is really useful in single page web apps. A single page web app can use the HTML5 history API to make a certain state in the app "bookmarkable”.
@@ -152,7 +152,7 @@ __replaceState(stateObject, title, url)__
 
 
 
-#### SPA(Single Page Application) 
+## SPA(Single Page Application) 
 
 Single Page Application(SPA) is a web application that fits on a single web page with dynamic actions without refreshing the page. Single Page Application interactions can be handle without reaching server. Single Page Application can improve performance in several ways like loading time, using AJAX, easy to navigate pages etc. End users will be more comfortable with Single Page Application, It is very easy to navigate to different page and filter content.
 
